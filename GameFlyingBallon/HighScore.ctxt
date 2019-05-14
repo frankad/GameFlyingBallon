@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=score
+comment0.target=void\ saveHighScore(int)
+comment0.text=\ This\ method\ write\ the\ score\ in\ the\ given\ file\ name\ and\ save\r\n\ \ it.\r\n\ \r\n
+comment1.params=
+comment1.target=int\ readHighScore()
+comment1.text=\ This\ method\ read\ the\ score\ from\ the\ given\ file\ and\ display\ \r\n\ when\ it\ asked\ to\ dispaly\r\n\ @return\ score\ the\ highest\ scored\r\n\ \r\n\ \r\n
+numComments=2

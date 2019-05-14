@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=mainWindow()
+comment1.params=
+comment1.target=void\ moveLeft()
+comment1.text=\ This\ method\ manage\ the\ movement\ of\ the\ gun\ on\ the\ window\ in\ percentage\r\n\ It\ controls\ the\ gun\ not\ to\ move\ outside\ the\ boundary\ of\ the\ window\ on\ the\r\n\ left\ side\ \r\n\ \r\n
+comment2.params=
+comment2.target=void\ moveRight()
+comment2.text=\ his\ method\ manage\ the\ movement\ of\ the\ gun\ on\ the\ window\ in\ percentage.\ It\r\n\ controls\ the\ gun\ not\ to\ move\ outside\ the\ boundary\ of\ the\ window\ on\ the\r\n\ right\ side.\r\n
+comment3.params=
+comment3.target=double\ getGunX()
+comment3.text=\ This\ method\ amnge\ the\ initial\ position\ of\ the\ gun\r\n\ \ @return\ gunX\ half\ of\ the\ width\ of\ the\ JPanel\ window.\ \ \r\n\ \r\n
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.text=\ This\ method\ perfroms\ to\ move\ the\ balloon\ as\ every\ time\ and\ check\ the\r\n\ collision\ with\ the\ bullet.\r\n\ \r\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment5.text=\ The\ maian\ static\ method\r\n\ \r\n
+numComments=6
